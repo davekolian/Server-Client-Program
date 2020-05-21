@@ -1,0 +1,17 @@
+D:\Desktop\Server-Client Program\Client\Server\bin\Debug\Server.exe.config
+D:\Desktop\Server-Client Program\Client\Server\bin\Debug\Server.exe
+D:\Desktop\Server-Client Program\Client\Server\bin\Debug\Server.pdb
+D:\Desktop\Server-Client Program\Client\Server\bin\Debug\SimpleTCP.dll
+D:\Desktop\Server-Client Program\Client\Server\obj\Debug\MainWindow.g.cs
+D:\Desktop\Server-Client Program\Client\Server\obj\Debug\App.g.cs
+D:\Desktop\Server-Client Program\Client\Server\obj\Debug\Server_MarkupCompile.cache
+D:\Desktop\Server-Client Program\Client\Server\obj\Debug\Server_MarkupCompile.lref
+D:\Desktop\Server-Client Program\Client\Server\obj\Debug\MainWindow.baml
+D:\Desktop\Server-Client Program\Client\Server\obj\Debug\Server.g.resources
+D:\Desktop\Server-Client Program\Client\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Desktop\Server-Client Program\Client\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Desktop\Server-Client Program\Client\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Desktop\Server-Client Program\Client\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Desktop\Server-Client Program\Client\Server\obj\Debug\Server.exe
+D:\Desktop\Server-Client Program\Client\Server\obj\Debug\Server.pdb
+D:\Desktop\Server-Client Program\Client\Server\obj\Debug\Server.csprojAssemblyReference.cache
